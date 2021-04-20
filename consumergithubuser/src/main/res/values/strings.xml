@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Consumer GitHub User</string>
+    <string name="my_name">Fadhlan Hadaina</string>
+    <string name="my_username">crypto411</string>
+    <string name="my_company">GitHub</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="search_hint">Masukkan user</string>
+    <string name="my_location">Location</string>
+    <string name="my_repository">Repository</string>
+    <string name="my_followers_following">Follower 2 - Following 3</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="github_logo">GitHub Logo</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_favorite">Remove favorite</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="reminder_header">Reminder</string>
+    <string name="reminder_alarm">Reminder at 9.00 AM</string>
+    <string name="reminder_alarm_key">reminder</string>
+</resources>

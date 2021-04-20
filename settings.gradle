@@ -1,0 +1,4 @@
+include ':consumergithubuser'
+include ':consumerapp'
+include ':app'
+rootProject.name = "BFAA Submission 3"

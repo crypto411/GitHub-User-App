@@ -14,7 +14,7 @@ interface GitHubApi {
         private const val API_TOKEN = BuildConfig.API_TOKEN
     }
     @GET("users")
-    @Headers("Authorization: token ", "User-Agent: request")
+    @Headers("Authorization: token $API_TOKEN", "User-Agent: request")
     fun getUsers(): Call<ArrayList<User>>
 
     @GET("search/users")
